@@ -1,4 +1,4 @@
-# CSMC512PCL
+# CSMC 516- Detection of Patronizing and Condescending Language
 
 
 The detection of Patronizing and Condescending language:
