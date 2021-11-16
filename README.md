@@ -10,3 +10,5 @@ With how the permissions are set up, one should be able to click on Python_Scrip
 In the neural network block, you will find 3 different networks of varying complexity. We did not see any increase in the accuracy of the results from increasing the size/complexity of the neural network. Larger networks seemed to be overtrained more easily and have more various results due to the many local minima. 
 
 If you have any issues, please reach out to barrowqa@vcu.edu
+
+PS: You likely know this, but in runtime one can hit run all to run all blocks of code sequentially
