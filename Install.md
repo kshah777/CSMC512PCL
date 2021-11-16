@@ -1,0 +1,1 @@
+There should be no need to install software. All that is required to run this program is a device/browser that is compatible with google collaboratory. All package instalation and imports will be handled by code within the google collaboratory file. 
