@@ -5,9 +5,11 @@ The detection of Patronizing and Condescending language:
 
 In this github repository, there is 3 different files.
 
-dontpatronizeme_pcl.tsv - This is the raw dataset that is used in the analysis and originaly created by Perez-Almendros. 
-Python_Script_PCL_Detection1.ipynb - This it the python script used for the task of PCL detection. Note, this also has a link to google collaboratory.
-Readme - This is what you are currently reading. Gives details on how to run program and what is contained in this repository. 
+* dontpatronizeme_pcl.tsv - This is the raw dataset that is used in the analysis and originaly created by Perez-Almendros. 
+
+* Python_Script_PCL_Detection1.ipynb - This it the python script used for the task of PCL detection. Note, this also has a link to google collaboratory.
+
+* Readme - This is what you are currently reading. Gives details on how to run program and what is contained in this repository. 
 
 With how the permissions are set up, one should be able to click on Python_Script_PCL_Detection1.ipynb, click on the open in collab badge to open collab in a new window, and the program should be able to run. When it comes to authroizing the data, just log in with any google account and it should work. A user should be able to modify the hyper parameters in the hyperparameter code block, but these changes can not be saved. The hyperparameters saved are the default/suggested parameters. 
 
