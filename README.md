@@ -3,7 +3,7 @@
 
 The detection of Patronizing and Condescending language:
 
-In this github repository, there is 3 different files.
+In this github repository, there is 4 different files.
 
 * dontpatronizeme_pcl.tsv - This is the raw dataset that is used in the analysis and originaly created by Perez-Almendros. 
 
