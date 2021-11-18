@@ -55,5 +55,5 @@ PS: You likely know this, but within the toolbar of google collab there is an op
 
 **Neural Network parameters**
 * num_epochs - Set number of training epochs for neural network (Default = 15)
-* learning_rate - Set learning rate for neural network (Default = 15)
-* batch_size_nn - Set batch size for training of neural network (Default = 15)
+* learning_rate - Set learning rate for neural network (Default = 0.003)
+* batch_size_nn - Set batch size for training of neural network (Default = 8)
